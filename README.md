@@ -28,11 +28,38 @@ Process :
 3. Data Transformation: Create fields like year added, duration category, genre count.
 4. Data Exploration: Analyze distributions by type, country, rating, duration.
 Visualization:
-   a. Bar charts: top genres, top directors, country-wise content.
-   b. Line charts: content additions over time.
-   c. Pie charts: content type distribution.
-   d. Word cloud / frequency charts: popular actors or directors.
+   a. Bar charts: Rating by Total Shows, Genres by Total Shows.
+   b. Area chart: Total Shows by Release Year.
+   c. Pie/Donut chart: content type distribution.
+   d. Filled Map Chart: Total Shows by Country.
 5. Insight Generation: Summarize trends, patterns, and interesting observations.
 6. Conclusion: Highlight Amazon Prime Video content library characteristics and trends.
+
+
+Dashboard Interaction : 
+
+<a href="">DashboardScreenshot</a>
+
+Dashboard : 
+
+<img width="1373" height="740" alt="Screenshot 2025-08-25 203043" src="https://github.com/user-attachments/assets/1776b0d7-1289-4071-9899-0be69d5d1767" />
+
+
+Project Insights : 
+
+1. Prime Video may have a higher proportion of movies or TV shows depending on its strategy.
+2. Certain countries dominate content production.
+3. Top genres and categories reflect viewer demand and content strategy.
+4. Trends in content addition indicate growth or expansion priorities.
+5. Frequent directors/actors highlight key contributors.
+
+
+Conclusion : 
+
+This dashboard provides a comprehensive overview of Amazon Prime Video’s content, supporting:
+1. Strategic decisions about content addition and acquisition.
+2. Understanding of trends in genres, countries, and ratings.
+3. Identification of top contributors and popular content types.
+
 
 
