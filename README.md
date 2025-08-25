@@ -5,7 +5,7 @@ Project Objective : Content Analysis and Trend Analysis :
 3. Identify popular directors, actors, and categories.
 4. Track content growth over time to see how Prime Video is expanding its offerings.
 
-Datset Used : 
+Dataset Used : 
 
 <a href="https://github.com/SanatMishra12/Amazon-Prime-Video---Data-Analysis-Dashboard-Creation-Using-Power-Bi-/blob/main/amazon_prime_titles.csv">Dataset</a>
 
