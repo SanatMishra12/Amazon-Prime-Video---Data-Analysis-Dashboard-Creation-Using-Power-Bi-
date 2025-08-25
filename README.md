@@ -38,7 +38,7 @@ Visualization:
 
 Dashboard Interaction : 
 
-<a href="">DashboardScreenshot</a>
+<a href="https://github.com/SanatMishra12/Amazon-Prime-Video---Data-Analysis-Dashboard-Creation-Using-Power-Bi-/blob/main/Screenshot%202025-08-25%20203043.png">DashboardScreenshot</a>
 
 Dashboard : 
 
